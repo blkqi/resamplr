@@ -1,0 +1,10 @@
+Package: resamplr
+Title: Bootstrap resampling and rarefaction for categorical data
+Version: 0.1
+Author: Brett L Kleinschmidt <blk@blk.me>
+Maintainer: Brett L Kleinschmidt <blk@blk.me>
+Description: Bootstrap resampling and rarefaction for categorical data
+Depends: R (>= 3.1.0)
+Imports: ggplot2
+License: GPL-2
+LazyData: true
